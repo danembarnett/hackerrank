@@ -17,7 +17,7 @@ public class Question3 {
         else if(n % 2 == 0 && n > 20) {
         	ans = "Not Weird";
         }
-        else{
+        else {
             ans = "Weird";
             
         }
